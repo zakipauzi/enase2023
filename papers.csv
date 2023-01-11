@@ -1,0 +1,98 @@
+﻿Authors,Title,Source
+"A Arunthavanathan, S Shanmugathasan…",Support for traceability management of software artefacts using Natural Language Processing,Moratuwa Engineering Research Conference (MERCon)
+"D Falessi, M Di Penta, G Canfora…",Estimating the number of remaining links in traceability recovery,Empirical Software Engineering
+"A Kicsi, V Csuvik, L Vidács",Large scale evaluation of natural language processing based test-to-code traceability approaches,IEEE Access
+"T Zhao, Q Cao, Q Sun",An improved approach to traceability recovery based on word embeddings,Asia-Pacific Software Engineering Conference (APSEC)
+"A Kicsi, L Tóth, L Vidács",Exploring the benefits of utilizing conceptual information in test-to-code traceability,International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering (RAISE)
+"V Csuvik, A Kicsi, L Vidács",Source code level word embeddings in aiding semantic test-to-code traceability,International Symposium on Software and Systems Traceability (SST)
+"I Rubasinghe, D Meedeniya…",Automated inter-artefact traceability establishment for DevOps practice,International Conference on Computer and Information Science (ICIS)
+"RH Hariri, EM Fredericks",Towards traceability link recovery for self-adaptive systems,Association for the Advancement of Artificial Intelligence
+"DB Wijesinghe, K Kamalabalan…",Establishing traceability links among software artefacts,International Conference on Advances in ICT for Emerging Regions (ICTer)
+"R Lapeña, F Pérez, C Cetina",On the Influence of Models-to-Natural-Language Transformation in Traceability Link Recovery among Requirements and Conceptual Models.,International Conference on Conceptual Modelling (ER 2017)
+"I Rubasinghe, D Meedeniya, I Perera",Tool support for software artefact traceability in DevOps practice: SAT-Analyser,Tools and Techniques for Software Development in Large Organizations
+"A Velasco, J Aponte",Automated fine grained traceability links recovery between high level requirements and source code implementations,ParadigmPlus
+OS Dawood,Toward Requirements and Design Traceability Using Natural Language Processing,European Journal of Engineering and Technology Research
+M Singh,Using Natural Language Processing and Graph Mining to Explore Inter-Related Requirements in Software Artefacts,ACM SIGSOFT Software Engineering Notes
+"M Alobaidi, K Mahmood",Semantic approach for traceability link recovery using uniform resource identifier (STURI),International Conference of Software Engineering Research and Practice (SERP)
+"D Kchaou, N Bouassida, M Mefteh…",Recovering semantic traceability between requirements and design for change impact analysis,Innovations in Systems and Software Engineering
+"Z Pauzi, A Capiluppi","Extracting and Comparing Concepts Emerging from Software Code, Documentation and Tests",Belgium-Netherlands Software Evolution Workshop (BENEVOL)
+"X Chen, J Hosking, J Grundy, R Amor",DCTracVis: a system retrieving and visualizing traceability links between source code and documentation,Automated Software Engineering
+"K Mahmood, M Alobaidi…",Autonomous decentralized semantic based traceability link recovery framework,IEICE Transactions on Information and Systems
+"R Tsuchiya, K Nishikawa, H Washizaki…",Recovering transitive traceability links among various software artifacts for developers,International Conference on Software Maintenance and Evolution (ICSME)
+"R Lapeña, F Pérez, C Cetina, O Pastor",Improving traceability links recovery in process models through an ontological expansion of requirements,International Conference on Advanced Information Systems Engineering (CAiSE)
+"K Mahmood, H Takahashi…",A semantic approach for traceability link recovery in aerospace requirements management system,International Symposium on Autonomous Decentralized Systems (ISADS)
+"Q Tian, Q Cao, Q Sun",Adapting Word Embeddings to Traceability Recovery,International Conference on Information Systems and Computer Aided Education (ICISCAE)
+T Hey,INDIRECT: intent-driven requirements-to-code traceability,International Conference on Software Engineering (ICSE)
+"W Wang, N Niu, H Liu, Z Niu",Enhancing automated requirements traceability by resolving polysemy,International Requirements Engineering Conference (RE)
+"OT Yıldız, A Okutan, E Solak",Bilingual Software Requirements Tracing using Vector Space Model,International Conference on Pattern Recognition Applications and Methods
+"X Wang, Q Cao, Q Sun",An Improved Approach based on Balanced Keyword Weight to Traceability Recovery,IOP Conference Series: Materials Science and Engineering
+"ID Rubasinghe, DA Meedeniya, I Perera",Software artefact traceability analyser: a case-study on POS system,International Conference on Communications and Broadband Networking
+"Y Liu, J Lin, J Cleland-Huang",Traceability support for multi-lingual software projects,International Conference on Mining Software Repositories (MSR)
+"A Velasco, JH Aponte Melo",Recovering Fine Grained Traceability Links Between Software Mandatory Constraints and Source Code,International Conference on Applied Informatics (ICAI)
+"OSD Omer, MME Mahmoud",Requirements and Design Consistency: A Bi-directional Traceability and Natural Language Processing Assisted Approach,European Journal of Engineering and Technology Research
+"N Ali, Z Sharafi, YG Guéhéneuc, G Antoniol",An empirical study on the importance of source code entities for requirements traceability,Empirical Software Engineering
+"A Di Thommazo, R Rovina, TR de Oliveira, G Olivatto…",Using Artificial Intelligence Techniques to Enhance Traceability Links.,International Conference on Enterprise Information Systems (ICEIS)
+"EE Bella, S Creff, MP Gervais…",ATLaS: A Framework for Traceability Links Recovery Combining Information Retrieval and Semi-supervised Techniques,International Enterprise Distributed Object Computing Conference (EDOC)
+"J Lin, Y Liu, Q Zeng, M Jiang…",Traceability transformed: Generating more accurate links with pre-trained bert models,International Conference on Software Engineering (ICSE)
+"A Mahmoud, G Bradshaw",Estimating semantic relatedness in source code,ACM Transactions on Software Engineering and Methodology
+"A Panichella, A De Lucia…",Adaptive user feedback for ir-based traceability recovery,International Symposium on Software and Systems Traceability (SST)
+"V Csuvik, A Kicsi, L Vidács",Evaluation of textual similarity techniques in code level traceability,"
+International Conference on Computational Science and Its Applications (ICCSA)"
+"J Keim, A Koziolek",Towards consistency checking between software architecture and informal documentation,International Conference on Software Architecture (ICSA)
+"Z Pauzi, A Capiluppi",Text Similarity Between Concepts Extracted from Source Code and Documentation,International Conference on Intelligent Data Engineering and Automated Learning (IDEAL)
+"A Qusef, G Bavota, R Oliveto, A De Lucia…",Recovering test-to-code traceability using slicing and textual analysis,Journal of Systems and Software
+"I Alazzam, IM Alsmadi, M Akour",Test Cases Selection Based on Source Code Features Extraction,International Journal of Software Engineering and its Applications
+"V Csuvik, D Horváth, F Horváth…",Utilizing Source Code Embeddings to Identify Correct Patches,International Workshop on Intelligent Bug Fixing (IBF)
+"J Keim, A Kaplan, A Koziolek, M Mirakhorli",Does bert understand code?–an exploratory study on the detection of architectural tactics in code,European Conference on Software Architecture (ECSA)
+"G Gadelha, F Ramalho, T Massoni",Traceability recovery between bug reports and test cases-a Mozilla Firefox case study,Automated Software Engineering
+"M Iammarino, L Aversano, ML Bernardi…",A Topic Modeling Approach To Evaluate The Comments Consistency To Source Code,International Joint Conference on Neural Networks (IJCNN)
+"AH Rasekh, SM Fakhrahmad…",Mining traces between source code and textual documents,International Journal of Computer Applications in Technology
+"C Mills, S Haiduc",The impact of retrieval direction on ir-based traceability link recovery,International Conference on Software Engineering (ICSE)
+"R Tsuchiya, H Washizaki, Y Fukazawa…",Interactive recovery of requirements traceability links using user feedback and configuration management logs,International Conference on Advanced Information Systems Engineering (CAiSE)
+"Y Liu, J Lin, Q Zeng, M Jiang…",Towards semantically guided traceability,International Requirements Engineering Conference (RE)
+"T Hey, F Chen, S Weigelt…",Improving Traceability Link Recovery Using Fine-grained Requirements-to-Code Relations,International Conference on Software Maintenance and Evolution (ICSME)
+"N Ali, H Cai, A Hamou-Lhadj, J Hassine",Exploiting Parts-of-Speech for effective automated requirements traceability,Information and Software Technology
+"L Chen, D Wang, J Wang…",Enhancing unsupervised requirements traceability with sequential semantics,Asia-Pacific Software Engineering Conference (APSEC)
+"KS Divya, R Subha, S Palaniswami",Similar words identification using naive and tf-idf method,International Journal of Information Technology and Computer Science
+"Y Huang, Z Liu, X Chen, X Luo",Automatic Matching Release Notes and Source Code by Generating Summary for Software Change,International Conference on Digital Home (ICDH)
+"Y Zhang, C Wan, B Jin",An empirical study on recovering requirement-to-code links,"International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD)"
+"A Mahmoud, N Niu",On the role of semantics in automated requirements tracing,Requirements Engineering
+"L Chen, D Wang, L Shi, Q Wang",A Self-enhanced Automatic Traceability Link Recovery via Structure Knowledge Mining for Small-scale Labeled Data,"Annual Computers, Software, and Applications Conference (COMPSAC)"
+"JM Champagne, DL Carver",Discovering relationships among software artifacts,Aerospace Conference
+"C Arora, M Sabetzadeh, L Briand…",Automated checking of conformance to requirements templates using natural language processing,IEEE Transactions on Software Engineering
+"P Pruski, S Lohar, W Goss, A Rasin…",Tiqi: answering unstructured natural language trace queries,Requirements Engineering
+"D Fuchÿ, C Kocher, J Speit",Trace Link Recovery for Software Architecture Documentation,European Conference on Software Architecture (ECSA)
+"D Kchaou, N Bouassida, H Ben-Abdallah",A New Approach for Traceability between UML Models.,International Conference on Software Technologies (ICSOFT)
+"P Heck, A Zaidman",Horizontal traceability for just‐in‐time requirements: the case for open source feature requests,Journal of Software: Evolution and Process
+"S Khatiwada, M Tushev, A Mahmoud",Just enough semantics: An information theoretic approach for IR-based software bug localization,Information and Software Technology
+"S Zamani, SP Lee, R Shokripour, J Anvik",A noun-based approach to feature location using time-aware term-weighting,Information and Software Technology
+"J Lin, Y Liu, J Guo, J Cleland-Huang…",Tiqi: A natural language interface for querying software project data,International Conference on Automated Software Engineering (ASE)
+"G Liu, Y Lu, K Shi, J Chang, X Wei",Mapping bug reports to relevant source code files based on the vector space model and word embedding,IEEE Access
+"EE Bella, MP Gervais, R Bendraou…",Semi-supervised approach for recovering traceability links in complex systems,International Conference on Engineering of Complex Computer Systems (ICECCS)
+"A Mahmoud, G Williams","Detecting, classifying, and tracing non-functional software requirements",Requirements Engineering
+"P Pruski, S Lohar, R Aquanette, G Ott…",Tiqi: Towards natural language trace queries,International Requirements Engineering Conference (RE)
+A Mahmoud,An information theoretic approach for extracting and tracing non-functional requirements,International Requirements Engineering Conference (RE)
+"J Keim, A Kaplan, A Koziolek, M Mirakhorli",Using BERT for the detection of architectural tactics in code,Karlsruhe Reports in Informatics
+"AH Rasekh, AH Arshia, SM Fakhrahmad…",Mining and discovery of hidden relationships between software source codes and related textual documents,Digital Scholarship in the Humanities
+"G Scanniello, A Marcus, D Pascale",Link analysis algorithms for static concept location: an empirical assessment,Empirical Software Engineering
+"X Xia, D Lo, X Wang, C Zhang, X Wang",Cross-language bug localization,International Conference on Program Comprehension (ICPC)
+"R Xie, L Chen, W Ye, Z Li, T Hu, D Du…",Deeplink: A code knowledge graph based deep learning approach for issue-commit link recovery,"International Conference on Software Analysis, Evolution and Reengineering (SANER)"
+"S Wang, D Lo, J Lawall",Compositional vector space models for improved bug localization,International Conference on Software Maintenance and Evolution (ICSME)
+"AN Lam, AT Nguyen, HA Nguyen…",Combining deep learning with information retrieval to localize buggy files for bug reports (n),International Conference on Automated Software Engineering (ASE)
+"G Yang, B Lee",Utilizing Topic-Based Similar Commit Information and CNN-LSTM Algorithm for Bug Localization,Symmetry
+"R Malhotra, S Aggarwal, R Girdhar…",Bug localization in software using NSGA-II,IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE)
+"B Jiang, P Liu, J Xu",A Deep Learning Approach to Locate Buggy Files,"International Conference on Dependable Systems, Services and Technologies (DESSERT)"
+"Y Zhou, Y Tong, T Chen, J Han",Augmenting bug localization with part-of-speech and invocation,International Journal of Software Engineering and Knowledge Engineering
+"S Eder, H Femmer, B Hauptmann…",Configuring latent semantic indexing for requirements tracing,International Workshop on Requirements Engineering and Testing (RET)
+"Y Zhang, D Lo, X Xia, TDB Le…",Inferring links between concerns and methods with multi-abstraction vector space model,International Conference on Software Maintenance and Evolution (ICSME)
+"R Gharibi, AH Rasekh, MH Sadreddini…",Leveraging textual properties of bug reports to localize relevant source files,Information Processing & Management
+"G Capobianco, AD Lucia, R Oliveto, ...",Improving IR‐based traceability recovery via noun‐based indexing of software artifacts,Journal of Software Maintenance and Evolution Research and Practice
+"A Di Thommazo, T Ribeiro, G Olivatto, ...",An automatic approach to detect traceability links using fuzzy logic,Brazilian Symposium on Software Engineering (SBES)
+"T Dasgupta, M Grechanik, E Moritz, B Dit, ...",Enhancing software traceability by automatically expanding corpora with relevant documentation,International Conference on Software Maintenance and Evolution (ICSME)
+"A Panichella, B Dit, R Oliveto, ...",How to effectively use topic models for software engineering tasks? an approach based on genetic algorithms,International Conference on Software Engineering (ICSE)
+"Y Li, J Cleland-Huang",Ontology-based trace retrieval,International Workshop on Traceability in Emerging Forms of Software Engineering (TEFSE)
+"R Shokripour, J Anvik, ZM Kasirun, ...",Why so complicated? simple term filtering and weighting for location-based bug report assignment recommendation,International Conference on Mining Software Repositories (MSR)
+"M Borg, D Pfahl, P Runeson",Analyzing networks of issue reports,European Conference on Software Maintenance and Reengineering (CSMR)
+"D Poshyvanyk, M Gethers, A Marcus",Concept location using formal concept analysis and information retrieval,ACM Transactions on Software Engineering and Methodology
+P. Berta,Employing issues and commits for in-code sentence based use case identification and remodularization,European Conference on the Engineering of Computer-Based Systems (ECBS)
+Jing-Xuan ZhangChuan-Qi TaoZhi-Qiu HuangXin Chen,Discovering API Directives from API Specifications with Text Classification,Journal of Computer Science and Technology
